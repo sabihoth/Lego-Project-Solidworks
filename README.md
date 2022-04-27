@@ -9,16 +9,16 @@ The project was to create a lego model shown below. This was done by creaing eac
 
 
 
-This is 
+This is an image of a few of my parts added together into an assembly. I had 6 final assemblies that I then assembled into a final product
 ![SLDWORKS_o5ijftlGTC](https://user-images.githubusercontent.com/24465754/165558303-6c771336-deb5-49a0-ae71-427af264d605.png)
 
 
 
-
+This is an image of the drawing, there is one of these for each of the parts made for this project 
 ![SLDWORKS_g7bRPZWcdX](https://user-images.githubusercontent.com/24465754/165558330-2e09595d-5ba6-46bc-915a-53dd65868d78.png)
 
 
-
+This is the final assembly of the monster truck that was built compiling all of the final six assemblies
 ![SLDWORKS_5SLIfOjuRv](https://user-images.githubusercontent.com/24465754/165558351-0a94fd14-8d25-443e-bc23-369a0b134ed3.png)
 
 
